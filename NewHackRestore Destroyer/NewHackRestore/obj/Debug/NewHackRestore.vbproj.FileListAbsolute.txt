@@ -1,0 +1,20 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\bin\Debug\NewHackRestore.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.actualizacion.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.Cargando.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\bin\Debug\NewHackRestore.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\bin\Debug\NewHackRestore.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\bin\Debug\NewHackRestore.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.Form2.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore\NewHackRestore\bin\Debug\NewHackRestore.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore\NewHackRestore\obj\Debug\NewHackRestore.pdb
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore Destroyer\NewHackRestore\bin\Debug\NewHackRestore.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore Destroyer\NewHackRestore\obj\Debug\NewHackRestore.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore Destroyer\NewHackRestore\obj\Debug\NewHackRestore.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\1OP7\NewHackRestore Destroyer\NewHackRestore\obj\Debug\NewHackRestore.pdb
